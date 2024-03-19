@@ -1,4 +1,1 @@
-SELECT * from xeggu;
-SELECT * from bdiex;
-SELECT * from uffpk;
-SELECT * from jbewj;
+SELECT * from keihc;
