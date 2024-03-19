@@ -1,2 +1,1 @@
-echo "ttmup"
-echo "hqmmm"
+echo "gaxvy"

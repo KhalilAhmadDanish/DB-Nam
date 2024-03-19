@@ -1,2 +1,1 @@
-print("oyqnq")
-print("ndcrc")
+print("yojnq")
